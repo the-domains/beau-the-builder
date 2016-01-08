@@ -1,7 +1,7 @@
 name: Beau The Builder
 favicon: null
-layout_spectrum: 0.3434906241018325
-typography_spectrum: 0.689718434587121
+layout_spectrum: 1
+typography_spectrum: 0.11341
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.21272537880577147
-  lightness: 0.275645075365901
-  saturation: 0.7333914237096906
-  rhythmicContrast: 0.18767345091328025
+  brandStrength: 0.1875
+  lightness: 0.25
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
